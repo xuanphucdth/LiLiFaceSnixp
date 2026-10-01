@@ -1,0 +1,15 @@
+{
+  "auto_face_snip": true,
+  "crop_mode": "head",
+  "padding": 0.25,
+  "multiple_faces": "ask",
+  "capture_mode": "monitor_under_cursor",
+  "confidence": 0.6,
+  "save_copy": false,
+  "start_with_windows": false,
+  "camera_box_padding": 0,
+  "camera_box_confidence": 0.55,
+  "camera_box_fallback": "head",
+  "camera_box_search_area": "foreground",
+  "debug_camera_detection": false
+}
